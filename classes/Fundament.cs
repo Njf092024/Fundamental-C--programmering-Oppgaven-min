@@ -34,6 +34,7 @@ public class Fundament : IFundament
 
     public double SumTwoNumbersOfGivenType(double a, double b)
     {
+        // I took the already established numbers "a and b", added them together and returned the result
         return a + b;
     }
 
