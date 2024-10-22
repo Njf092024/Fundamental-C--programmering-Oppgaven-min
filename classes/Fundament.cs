@@ -17,6 +17,7 @@ public class Fundament : IFundament
 
     public string GetAInterestingFact(string fact)
     {
+        // Returns the string "interesting fact:" along with whatever fact the user provided
         return $"Interesting fact: {fact}";
     }
 
