@@ -23,7 +23,11 @@ public class Fundament : IFundament
 
     public void SumTwoNumbers()
     {
-        throw new NotImplementedException();
+        int a = 5;
+        int b = 10;
+        int sum = a + b;
+
+        Console.WriteLine($"sum of {a} and {b} is: {sum}");
     }
 
     public double SumTwoNumbersOfGivenType(double a, double b)
