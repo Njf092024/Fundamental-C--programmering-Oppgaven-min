@@ -17,7 +17,7 @@ public class Fundament : IFundament
 
     public string GetAInterestingFact(string fact)
     {
-        throw new NotImplementedException();
+        return $"Interesting fact: {fact}";
     }
 
     public void SumTwoNumbers()
