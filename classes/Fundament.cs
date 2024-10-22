@@ -2,12 +2,15 @@ public class Fundament : IFundament
 {
     public void CheckOddOrEven(double a)
     {
+        // Checking if "a" aka the number is divisble by 2 to see if its even
         if (a % 2 == 0)
         {
+            // if the condition is true, "a" will be printed as even
             Console.WriteLine($"{a} is even.");
         }
         else
         {
+            // If the condition is false, meaning its not divisble by 2, 'a' will be printed as odd
             Console.WriteLine($"{a} is odd.");
         }
     }
