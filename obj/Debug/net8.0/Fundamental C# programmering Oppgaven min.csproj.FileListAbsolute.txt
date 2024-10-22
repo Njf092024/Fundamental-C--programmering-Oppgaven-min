@@ -1,0 +1,14 @@
+C:\Koding\Fundamental C# programmering Oppgaven min\bin\Debug\net8.0\Fundamental C# programmering Oppgaven min.exe
+C:\Koding\Fundamental C# programmering Oppgaven min\bin\Debug\net8.0\Fundamental C# programmering Oppgaven min.deps.json
+C:\Koding\Fundamental C# programmering Oppgaven min\bin\Debug\net8.0\Fundamental C# programmering Oppgaven min.runtimeconfig.json
+C:\Koding\Fundamental C# programmering Oppgaven min\bin\Debug\net8.0\Fundamental C# programmering Oppgaven min.dll
+C:\Koding\Fundamental C# programmering Oppgaven min\bin\Debug\net8.0\Fundamental C# programmering Oppgaven min.pdb
+C:\Koding\Fundamental C# programmering Oppgaven min\obj\Debug\net8.0\Fundamental C# programmering Oppgaven min.GeneratedMSBuildEditorConfig.editorconfig
+C:\Koding\Fundamental C# programmering Oppgaven min\obj\Debug\net8.0\Fundamental C# programmering Oppgaven min.AssemblyInfoInputs.cache
+C:\Koding\Fundamental C# programmering Oppgaven min\obj\Debug\net8.0\Fundamental C# programmering Oppgaven min.AssemblyInfo.cs
+C:\Koding\Fundamental C# programmering Oppgaven min\obj\Debug\net8.0\Fundamental C# programmering Oppgaven min.csproj.CoreCompileInputs.cache
+C:\Koding\Fundamental C# programmering Oppgaven min\obj\Debug\net8.0\Fundamental C# programmering Oppgaven min.dll
+C:\Koding\Fundamental C# programmering Oppgaven min\obj\Debug\net8.0\refint\Fundamental C# programmering Oppgaven min.dll
+C:\Koding\Fundamental C# programmering Oppgaven min\obj\Debug\net8.0\Fundamental C# programmering Oppgaven min.pdb
+C:\Koding\Fundamental C# programmering Oppgaven min\obj\Debug\net8.0\Fundamental C# programmering Oppgaven min.genruntimeconfig.cache
+C:\Koding\Fundamental C# programmering Oppgaven min\obj\Debug\net8.0\ref\Fundamental C# programmering Oppgaven min.dll
