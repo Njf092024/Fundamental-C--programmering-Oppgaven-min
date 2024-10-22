@@ -23,10 +23,12 @@ public class Fundament : IFundament
 
     public void SumTwoNumbers()
     {
+        // Pretty self-explanatory, i did what the name of the method suggests which is to take two numbers and sum it
         int a = 5;
         int b = 10;
         int sum = a + b;
 
+        //  Printing out the result to the console
         Console.WriteLine($"sum of {a} and {b} is: {sum}");
     }
 
