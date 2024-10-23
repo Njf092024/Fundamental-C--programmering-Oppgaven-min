@@ -9,6 +9,7 @@ class Program
         // Called the "CheckOddOrEven" method over to program
         fnd.CheckOddOrEven(15);
 
+        // Called the "GetAInterestingFact method over to program
         string fact = fnd.GetAInterestingFact("Having Yasuo on your team statistically increases your chances of certain defeat and loss of LP");
         
         Console.WriteLine(fact);
