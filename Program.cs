@@ -4,6 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        // I created an instance of the object Fundament so that i can call all the methods over to the main program
         Fundament fnd = new Fundament();
         fnd.CheckOddOrEven(10);
         // Create a new instance of the Greeting class
