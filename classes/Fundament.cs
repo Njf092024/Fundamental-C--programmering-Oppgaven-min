@@ -1,6 +1,6 @@
 public class Fundament : IFundament
 {
-    public void CheckOddOrEven(double a)
+    public void CheckOddOrEven(double a = 10)
     {
         // Checking if "a" aka the number is divisble by 2 to see if its even
         if (a % 2 == 0)
