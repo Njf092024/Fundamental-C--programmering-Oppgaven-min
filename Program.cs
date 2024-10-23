@@ -13,6 +13,8 @@ class Program
         string fact = fnd.GetAInterestingFact("Having Yasuo on your team statistically increases your chances of certain defeat and loss of LP.");
         
         Console.WriteLine(fact);
+
+        fnd.SumTwoNumbers();
         // Create a new instance of the Greeting class
         Greetings greetings = new Greetings();
         // English greeting
