@@ -6,7 +6,8 @@ class Program
     {
         // I created an instance of the object Fundament so that i can call all the methods over to the main program
         Fundament fnd = new Fundament();
-        fnd.CheckOddOrEven(10);
+        // Called the "CheckOddOrEven" method over to program
+        fnd.CheckOddOrEven(15);
         // Create a new instance of the Greeting class
         Greetings greetings = new Greetings();
         // English greeting
