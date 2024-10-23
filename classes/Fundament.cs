@@ -27,7 +27,7 @@ public class Fundament : IFundament
         int a = 5;
         int b = 10;
         int sum = a + b;
-
+        
         //  Printing out the result to the console
         Console.WriteLine($"sum of {a} and {b} is: {sum}");
     }
