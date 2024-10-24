@@ -54,9 +54,23 @@ public class Fundament : IFundament
     public void PrintFibonnaciSeries()
     {
         // TODO: Implement the Fibonacci sequence
-        // int a = 0;
-        // int b = 1;
-        // int c;
+        int a = 0;
+        int b = 1;
+        
+        Console.WriteLine($"{a}");
+        Console.WriteLine($"{b}");
+
+        for (int i =2; i < 10; i++)
+        {
+            int c = a+b;
+
+        Console.WriteLine($"{c}");
+
+        a = b;
+        b = c;
+
+            
+        }
 
         /* 
         c = a + b

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fundamental C# programmering Oppgaven min")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8357ab823ade2e2e9f55ea45089531d890545c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89679c8f170c302d7d3511cc5b85d66f5b52763f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fundamental C# programmering Oppgaven min")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fundamental C# programmering Oppgaven min")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
