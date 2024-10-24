@@ -1,4 +1,6 @@
-﻿﻿namespace CS_Tests;
+﻿﻿using System.Diagnostics.CodeAnalysis;
+
+namespace CS_Tests;
 
 class Program
 {
@@ -15,7 +17,14 @@ class Program
         Console.WriteLine(fact);
 
         // Called the "SumTwoNumbers" method over to programm
-        fnd.SumTwoNumbers(); 
+        fnd.SumTwoNumbers();
+
+ 
+      
+        
+        
+
+        
 
         // Create a new instance of the Greeting class
         Greetings greetings = new Greetings();

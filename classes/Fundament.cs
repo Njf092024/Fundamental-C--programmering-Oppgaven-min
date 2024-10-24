@@ -32,8 +32,12 @@ public class Fundament : IFundament
         Console.WriteLine($"sum of {a} and {b} is: {sum}");
     }
 
-    public double SumTwoNumbersOfGivenType(double a, double b)
+
+    public double SumTwoNumbersOfGivenType(double a = 15, double b = 20)
     {
+        // Hadde aldri klart dinna uten energidrikken min.. tok altfor lang tid
+        double sum = a + b;
+        Console.WriteLine($"sum of {a} and {b} is: {sum}");
         // I took the already established numbers "a and b", added them together and returned the result
         return a + b;
     }
@@ -44,9 +48,9 @@ public class Fundament : IFundament
     public void PrintFibonnaciSeries()
     {
         // TODO: Implement the Fibonacci sequence
-        int a = 0;
-        int b = 1;
-        int c;
+        // int a = 0;
+        // int b = 1;
+        // int c;
 
         /* 
         c = a + b
