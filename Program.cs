@@ -30,7 +30,11 @@ class Program
         // Called the "PrintFibonnaciSeries" method over to program
         fnd.PrintFibonnaciSeries();
 
-       
+        string original = "hsart si ousaY";
+        string reversed = fnd.ReverseString(original);
+
+        Console.WriteLine($"Original: {original}");
+        Console.WriteLine($"Reversed: {reversed}");
 
         
     
