@@ -19,6 +19,7 @@ class Program
         // Called the "SumTwoNumbers" method over to programm
         fnd.SumTwoNumbers();
 
+        // called the "SumTwoNumbersOfGivenType" method over to program
         fnd.SumTwoNumbersOfGivenType();
 
         // Olivers versjon / rettelse

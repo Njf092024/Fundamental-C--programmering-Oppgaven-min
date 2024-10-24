@@ -56,18 +56,16 @@ public class Fundament : IFundament
         // TODO: Implement the Fibonacci sequence
         int a = 0;
         int b = 1;
-        
-        Console.WriteLine($"{a}");
-        Console.WriteLine($"{b}");
+        int c;
+        // Console.WriteLine($"{a}");
+        // Console.WriteLine($"{b}");
 
-        for (int i =2; i < 10; i++)
+        for (int i =0; i < 10; i++)
         {
-            int c = a+b;
-
-        Console.WriteLine($"{c}");
-
-        a = b;
-        b = c;
+        Console.WriteLine($"{a}");
+            c = a+b;
+            a = b;
+            b = c;
 
             
         }
