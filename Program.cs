@@ -19,11 +19,12 @@ class Program
         // Called the "SumTwoNumbers" method over to programm
         fnd.SumTwoNumbers();
 
+        fnd.SumTwoNumbersOfGivenType();
+
  
       
         
-        
-
+    
         
 
         // Create a new instance of the Greeting class
