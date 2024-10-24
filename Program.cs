@@ -36,7 +36,8 @@ class Program
         Console.WriteLine($"Original: {original}");
         Console.WriteLine($"Reversed: {reversed}");
 
-        
+        int result = fnd.RecursiveFactorial(5);
+        Console.WriteLine($"Factorial of 5 is: {result}");
     
         
 
