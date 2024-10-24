@@ -25,6 +25,7 @@ class Program
         // Olivers versjon / rettelse
         // Console.WriteLine($"the sum of 15 + 20 = {fnd.SumTwoNumbersOfGivenType(15,20)}");
         
+        // Called the "PrintFibonnaciSeries" method over to program
         fnd.PrintFibonnaciSeries();
 
         
