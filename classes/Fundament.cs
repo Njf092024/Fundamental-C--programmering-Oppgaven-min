@@ -70,17 +70,16 @@ public class Fundament : IFundament
             
         }
 
-        /* 
-        c = a + b
-        a = b
-        b = c
-        */
+
     }
 
     public string ReverseString(string str)
     {
         // TODO: reverse the given string
-        return "";
+        char[] charArray = str.ToCharArray();
+        Array.Reverse(charArray);
+        string ReverseString = new string(charArray);
+        return ReverseString;
     }
 
     public int RecursiveFactorial(int n)
